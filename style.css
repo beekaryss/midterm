@@ -1,0 +1,44 @@
+.container{
+			background: rgb(34,193,195);
+background: linear-gradient(344deg, rgba(34,193,195,1) 00%, rgba(255,255,255,1) 100%);
+		}
+		input[type='number']{
+    width: 780px;
+
+}
+#dropdown{
+	width: 780px;
+}
+.drop{
+	position: relative;
+	right: 250px;
+}
+.down{
+	position: relative;
+	right: 270px;
+}
+.name{
+	position: relative;
+	right: 360px;
+}
+.email{
+	position: relative;
+	right: 360px;
+}
+.age{
+	position: relative;
+	right: 370px;
+}
+button{
+	 border: 2px solid #22BACF;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+button:hover{
+	background-color: #22BACF;
+	color: white;
+	border: solid white;
+}
